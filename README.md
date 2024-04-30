@@ -8,7 +8,7 @@ Extract your results from the "Drafts-Completed" page on the Underdog fantasy we
 
 2. Download this repository as a .zip file. At the top of this page, there is a green button that says "Code". Click it, and select "Download ZIP" from the dropdown menu.
 
-3. Open the downloaded .zip file, click into the folder that says `Underdog-Results-Extract-main`, then again into the `zip` folder. Select the .zip file and extract it somewhere on your computer.
+3. Open the downloaded .zip file, click into the folder that says `Underdog-BestBall-Completed-Exposure-master`, then again into the `zip` folder. Select the .zip file and extract it somewhere on your computer.
 
 4. Navigate back to `chrome://extensions/` in your browser. In your operating system's file explorer, select that .zip file you just extracted, then drag & drop it onto the chrome extension page. You should now see the extension on that page.
 
